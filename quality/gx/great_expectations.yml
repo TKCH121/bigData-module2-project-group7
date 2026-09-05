@@ -87,11 +87,11 @@ fluent_datasources:
     assets:
       orders:
         type: dataframe
-        id: 7a43f86e-99fc-4852-9d9c-11228343a98c
+        id: 86733518-0418-42cc-9582-5a8a203cc973
         batch_metadata: {}
         batch_definitions:
           batch__orders:
-            id: 40ef21e1-168f-4865-bba2-3f25d8cbed69
+            id: 35532692-13b7-4c9e-9d36-17df7b399887
             partitioner:
   olist_files__order_items:
     type: pandas
@@ -99,11 +99,11 @@ fluent_datasources:
     assets:
       order_items:
         type: dataframe
-        id: a4a4e98f-9ca1-409d-b370-73335402679d
+        id: c905b50d-4ec3-4025-ada6-62e934255c6e
         batch_metadata: {}
         batch_definitions:
           batch__order_items:
-            id: 0bb3e778-c474-43b8-9ece-72706e307570
+            id: 4a5247e1-3499-4848-a6e3-a9eda16931d7
             partitioner:
   olist_files__order_payments:
     type: pandas
@@ -111,11 +111,11 @@ fluent_datasources:
     assets:
       order_payments:
         type: dataframe
-        id: 810ba49a-905f-4248-8a99-791665dae6c9
+        id: b05f0e25-48d3-4b54-84cd-0b330cbecf94
         batch_metadata: {}
         batch_definitions:
           batch__order_payments:
-            id: 8031b9b6-5cbb-417e-b064-7dc99be314b8
+            id: 6715ab94-9bce-43c0-b314-f9303c0a4100
             partitioner:
   olist_files__order_reviews:
     type: pandas
@@ -123,11 +123,11 @@ fluent_datasources:
     assets:
       order_reviews:
         type: dataframe
-        id: 7a5add67-d7ca-493b-a2e7-d700198b04f1
+        id: 6ce36136-aef8-42d6-97fb-b1b19b4995f1
         batch_metadata: {}
         batch_definitions:
           batch__order_reviews:
-            id: 8e34796e-88a1-4685-af61-19fb9d97a352
+            id: f47fc4bb-722b-424c-8bb5-70faef986cb3
             partitioner:
   olist_files__customers:
     type: pandas
@@ -135,11 +135,11 @@ fluent_datasources:
     assets:
       customers:
         type: dataframe
-        id: 5ec160d4-1aa5-42e5-9f38-39dc48e9b8a4
+        id: b0ddd383-9549-4227-b5f1-2f93a1b02b2f
         batch_metadata: {}
         batch_definitions:
           batch__customers:
-            id: b786c5c8-9ef1-4c73-9184-07c6ee464d22
+            id: 52e4b85f-2fb9-4fdf-ace5-2ab52b13f448
             partitioner:
   olist_files__products:
     type: pandas
@@ -147,11 +147,11 @@ fluent_datasources:
     assets:
       products:
         type: dataframe
-        id: ce28ac71-c837-4236-ac97-fa5d8ae5a197
+        id: faa8a3eb-ec0c-4c59-8018-00de088f53aa
         batch_metadata: {}
         batch_definitions:
           batch__products:
-            id: 3d3c3764-b975-43e3-bc13-61ae60da8782
+            id: d3ad86df-4ad5-483e-a058-c6fbbc0dfc2a
             partitioner:
   olist_files__sellers:
     type: pandas
@@ -159,11 +159,11 @@ fluent_datasources:
     assets:
       sellers:
         type: dataframe
-        id: 7164be22-c083-4917-86a6-360314640eb2
+        id: b64dfe16-56af-4a65-934f-9a5b99824cff
         batch_metadata: {}
         batch_definitions:
           batch__sellers:
-            id: de969e09-9d1e-4491-b85e-53da5ba231fa
+            id: 1ed78c9b-c9c1-4e4a-807f-1dc7b2421894
             partitioner:
   olist_files__geolocation:
     type: pandas
@@ -171,11 +171,11 @@ fluent_datasources:
     assets:
       geolocation:
         type: dataframe
-        id: fa0afa32-4e10-4364-8b50-4b377a6e5418
+        id: 5b0c147f-b543-41ad-b197-915b04607351
         batch_metadata: {}
         batch_definitions:
           batch__geolocation:
-            id: 1c1b7f58-0970-48ca-9f63-b78c7290a667
+            id: 674cc9c9-0fcf-4f96-9f64-5857a435682c
             partitioner:
   olist_files__product_category_translation:
     type: pandas
@@ -183,11 +183,11 @@ fluent_datasources:
     assets:
       product_category_translation:
         type: dataframe
-        id: 81458f8e-0458-432c-b06f-17f27c85b427
+        id: c65c61c7-6db3-492c-8d78-858c755ff937
         batch_metadata: {}
         batch_definitions:
           batch__product_category_translation:
-            id: 72a00ed8-210a-41a4-8398-d14bcd0f7ca2
+            id: e9846c25-56b5-4dba-8f97-5485e3ce52b4
             partitioner:
 analytics_enabled:
 data_context_id: 8dfe8ed8-37cc-4d80-b0cf-a0ebc0c43ed9

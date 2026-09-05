@@ -1,7 +1,7 @@
 {
   "expectations": [
     {
-      "id": "5cdf5646-fa42-4ecd-bcf7-81e5ba4ad390",
+      "id": "7255d232-3cef-4a34-b448-c92799b64800",
       "kwargs": {
         "column_set": [
           "product_id",
@@ -20,7 +20,7 @@
       "type": "expect_table_columns_to_match_set"
     },
     {
-      "id": "866d3a3d-fb50-4a37-98ed-692f0da0b718",
+      "id": "69bd2a45-0e61-4fa9-bba1-eec4e988d9a7",
       "kwargs": {
         "value": 32951
       },
@@ -29,7 +29,7 @@
       "type": "expect_table_row_count_to_equal"
     },
     {
-      "id": "6a0330d5-fdd7-4381-9a8a-6b1d6aa02e65",
+      "id": "a7b03f62-06d0-44f2-8816-049ff6a683fb",
       "kwargs": {
         "column": "product_id"
       },
@@ -38,7 +38,7 @@
       "type": "expect_column_values_to_not_be_null"
     },
     {
-      "id": "08644418-2bf2-43ef-8804-b2ade542bc4a",
+      "id": "e466773f-6a69-493b-a980-14071f5d084b",
       "kwargs": {
         "column": "product_id"
       },

@@ -1,11 +1,11 @@
 {
   "data": {
     "asset": {
-      "id": "fa0afa32-4e10-4364-8b50-4b377a6e5418",
+      "id": "5b0c147f-b543-41ad-b197-915b04607351",
       "name": "geolocation"
     },
     "batch_definition": {
-      "id": "1c1b7f58-0970-48ca-9f63-b78c7290a667",
+      "id": "674cc9c9-0fcf-4f96-9f64-5857a435682c",
       "name": "batch__geolocation"
     },
     "datasource": {
